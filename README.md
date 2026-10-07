@@ -95,11 +95,3 @@ The recursive implementation uses the function call stack.
 Binary Search is an efficient searching technique that works on a sorted array. It repeatedly divides the search space into two halves until the required element is found or the search space becomes empty.
 
 The recursive implementation has a time complexity of **O(log n)** in the average and worst cases and requires **O(log n)** auxiliary space due to the recursion stack.
-
-## GitHub Repository
-
-[Binary Search - GitHub](https://github.com/vardashinde5-stack/BinarySearch)
-
-## Output Image
-
-[Binary Search Terminal Output](https://github.com/vardashinde5-stack/BinarySearch/blob/main/Binary%20Search%20Terminal%20Output.png)
