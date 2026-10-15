@@ -2,7 +2,9 @@
 
 ## Title
 
-**Binary Search Using Recursion**
+Divide and conquer 
+1. binary search on array
+2.finding maximum and minimum number from array 
 
 ## Aim
 
